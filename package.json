@@ -1,0 +1,16 @@
+{
+  "name": "learnyounode_files",
+  "version": "1.0.0",
+  "description": "Keys to learnyounode's problem set",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello World');"
+  },
+  "keywords": [
+    "learnyounode",
+    "solutions",
+    "keys"
+  ],
+  "author": "@warlock1437",
+  "license": "ISC"
+}
